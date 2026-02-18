@@ -4,7 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+
 .env
+CodeClash.pdf
+C:\Users\ssr\Desktop\Codywar\Backend\CodyWar\src\main\resources\static\CodeClash.md
 
 ### STS ###
 .apt_generated
